@@ -1,3 +1,4 @@
-![Без имени-1](https://user-images.githubusercontent.com/49938053/124458791-1578c000-dd96-11eb-9c03-98e36d4ba676.jpg)
+![Без имени-2](https://user-images.githubusercontent.com/49938053/124461809-c16fda80-dd99-11eb-93a7-84ff187a2563.jpg)
+
 # PROGRAMMING SCHOOL 21
 Школа программирования 21 от СБЕРБАНКА, по франшизе SCHOOL42
